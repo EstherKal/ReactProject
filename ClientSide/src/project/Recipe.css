@@ -1,0 +1,16 @@
+#img{
+    height: 350px;
+    width: 350px;
+    margin: 7%;
+}
+.recipe{
+    margin:  4%;
+    float: left;
+}
+.title{
+    width: 100%;
+    background-color:#9e9e9e;
+}
+.body{
+    display: flex;
+}
